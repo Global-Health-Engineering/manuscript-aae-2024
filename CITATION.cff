@@ -1,0 +1,33 @@
+# -----------------------------------------------------------
+# CITATION file created with {cffr} R package, v0.4.1
+# See also: https://docs.ropensci.org/cffr/
+# -----------------------------------------------------------
+
+cff-version: 1.2.0
+type: software
+license: CC-BY-4.0
+title: 'Manuscript: Absorption Ångström Exponent values to identify light-absorbing aerosol sources in Blantyre, Malawi'
+version: 0.0.1
+authors:
+- family-names: Vijay
+  given-names: Saloni
+  email: svijay@ethz.ch
+  orcid: https://orcid.org/0000-0001-5883-5308
+- family-names: Schöbitz
+  given-names: Lars
+  email: lschoebitz@ethz.ch
+  orcid: https://orcid.org/0000-0003-2196-5015
+- family-names: Chilunga
+  given-names: Hope Kelvin
+  email: chilungakelvin@gmail.com
+  orcid: https://orcid.org/0000-0003-4216-6319
+- family-names: Tilley
+  given-names: Elizabeth
+  email: tilleye@ethz.ch
+  orcid: https://orcid.org/0000-0002-2095-9724
+url: https://global-health-engineering.github.io/qechairquality/
+contact:
+- family-names: Vijay
+  given-names: Saloni
+  email: svijay@ethz.ch
+  orcid: https://orcid.org/0000-0001-5883-5308
